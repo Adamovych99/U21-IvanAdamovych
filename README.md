@@ -1,2 +1,0 @@
-# QA-IvanAdamovych
-project
